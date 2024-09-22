@@ -1,0 +1,12 @@
+- qualifiers :tiny, medium, long, var
+- types
+	- [[char]]
+	- [[text]]
+	- [[binary]]
+	- [[blob]]
+	- [[boolean]]
+	- [[int]]
+	- [[float]]
+	- [[Datetime]]
+-
+-

@@ -1,0 +1,4 @@
+- not a constraint
+-
+- all keys that are not a primary key
+-

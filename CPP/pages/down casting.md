@@ -1,0 +1,5 @@
+- when the derived class pointer is assigned the base reference/pointer
+- explicit casting is required
+- Derived *dptr= (Derived*) bptr
+- if previous [[up casting]] was not performed non initialized members may be accessable
+- to perform safely [[RTTI]] is used

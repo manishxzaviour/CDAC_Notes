@@ -1,0 +1,6 @@
+- a non-member function or class that has access to the private members of the class to which this friend is decrared
+- the decleration of this function or class with the 'friend' key word is needed inside the main class
+- the members are accessible only through a object
+- no this pointer is passed
+- in case of friend class generally derived class are declared as all others need the object of the main class
+- is not inherited to derived in [[inheritance]]

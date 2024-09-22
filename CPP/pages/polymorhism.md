@@ -1,0 +1,4 @@
+- ability of one object to take multiple forms
+- purpose of reduce maintainence of system
+- [[static polymorphism]]
+- [[runtime polymorphism]]

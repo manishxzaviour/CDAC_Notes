@@ -1,0 +1,16 @@
+- a dynamic array that can grow and shrink in size
+- provides random access to elements and efficient insertion and deletion at the end
+- vector<int> v1;
+- inspectors size() capacity() begin() end()
+- facilitators push_back() erase() clear() at()
+- iterator vector<type>::iterator
+- is a random access iterator
+- [] can be used to index elements in the base array
+- [] is overloaded to work with vector object
+- size of vector doubles on insertion every time its size is full
+-
+- data is inserted at the end
+- inserting at the end takes differential time as when full array needs to be extended
+- removing the last element takes constant time as no resizing happens
+- inserting in beginning or middle takes linear time
+-

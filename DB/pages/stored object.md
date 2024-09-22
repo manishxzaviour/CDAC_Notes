@@ -1,0 +1,15 @@
+- created by DDL
+- create
+	- tables
+	- database
+	- index
+	- view
+	- stored procedure
+-
+- is a #routine that returns a value directly
+	- __and compulsorily__
+-
+- stored as a global function
+- recorded in a system table for functions
+-
+-

@@ -1,0 +1,3 @@
+- is not a constraint
+- minimal set of all combination of columns that can be used to identify a record uniquely
+- two or more cols can be composed to form a key nut only their minimal required combination is a part of the super key set

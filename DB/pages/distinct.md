@@ -1,0 +1,3 @@
+- select distinct rows from input table
+- can be used in select statement only
+- select distinct job from emp;

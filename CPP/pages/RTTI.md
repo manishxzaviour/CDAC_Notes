@@ -1,0 +1,8 @@
+- __Run Time Type information__
+- when [[down casting]] the casting operation does not check if previous [[up casting]] was performed
+- thus non initialized members can be accessed through derived class pointer
+- to prevent this the object pointed by the base pointer needs to be confirmed
+- for this the typeid() function and type_of class is used
+- the type_of inspector name() provides the name of the class to which the object belongs
+- typeid(*bptr).name()==typeid(Employee).name()
+- this checks weather the bptr* points to employee if true [[down casting]] can be performed

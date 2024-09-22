@@ -1,0 +1,9 @@
+- data is stored in data directory
+- each #database is stored in seperate sub directories
+- each table in a db is a file on the disk  {{cloze .ibd for mysql}}
+- data is stored in binary format
+- a table is __not contiguously stored__ and hence searching and retrieval is not contiguous as the are scattered
+- __in a row all fields are consecutive__
+- when records are selected they are selected in any order
+	- hence __cannot fetch first n rows__ {{cloze without using other clauses}}
+-

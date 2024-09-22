@@ -1,0 +1,11 @@
+- default style - YYYY/MM/DD
+	- can be YY/MM/DD
+		- mapping - 70-99 == 1970-1999
+		               00-69 == 2000-2069
+- range
+	- 1 Jan 1000 AD to 31 Dec 9999 AD
+-
+- Subtraction of two dates gives the period between them in date format
+	- dates are stored as numerical count from 1 Jan 1000 AD
+-
+-

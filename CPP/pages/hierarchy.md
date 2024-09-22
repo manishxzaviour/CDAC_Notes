@@ -1,0 +1,10 @@
+- one of the major [[pillars of oops]]
+- levels/ order/ ranking of abstraction
+- achieve reusability
+- represents relationships -
+	- has-a/part-of/containment
+	- is-a/kind-of/generalization
+	- use-a/ dependency
+	- creates-a/ instantiation
+- [[Association]]
+- [[inheritance]]

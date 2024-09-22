@@ -1,0 +1,3 @@
+- when a indirectly derived class inherits two instances of the indirect base class
+- the constructor of the indirect base class is called twice; there exists two instance of all non static members of the base class within indirectly derived class
+- this violates inheritance thus a problem

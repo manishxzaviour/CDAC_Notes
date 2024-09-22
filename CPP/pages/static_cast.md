@@ -1,0 +1,3 @@
+- unlike [[dynamic_cast]] static_cast does not check for previous upcasting but checks for [[inheritance]].
+- static cast is unsafe as it does not check for for upcasting
+- does not check for polymorphism

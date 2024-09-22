@@ -1,0 +1,7 @@
+- has-a/part-of/containment
+- is-a/kind-of/generalization
+- use-a/ dependency
+- creates-a/ instantiation
+- [[composition]]
+- [[aggregation]]
+-

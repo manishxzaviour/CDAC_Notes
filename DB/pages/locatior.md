@@ -1,0 +1,2 @@
+- storage pointer/path to a physical storage location on secondary memory
+- done so that the processing of regular columns is not affected due to large entries

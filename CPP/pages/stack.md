@@ -1,0 +1,3 @@
+- adapts a container to provide lifo behaviour
+- push() pop()
+- top() returns top element

@@ -1,0 +1,4 @@
+- may have multiple #columns
+	- each column is a data-type and zero or more constraints
+- data is stored in multiple #rows
+	- each rows may contain multiple values corresponding to columns

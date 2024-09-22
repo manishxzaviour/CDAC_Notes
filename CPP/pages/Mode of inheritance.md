@@ -1,0 +1,7 @@
+- [[Access Modifiers]]
+- class Derived: public Base{}
+- - does not change any acess modifiers applied in base class
+- class Derived: private Base{}
+- - makes it so that all inherited members are private
+- class Derived: protected Base{}
+- - makes it so that all inherited members are protected

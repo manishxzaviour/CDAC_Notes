@@ -1,0 +1,10 @@
+- #DataBase
+	- [[DBMS]]
+	- [[RDBMS]]
+	- [[OODBMS]]
+	- [[SQL]]
+	- [[DBMS vs RDBMS]]
+	- [[MySQL-sql]]
+	- [[DataTypes]]
+	-
+-

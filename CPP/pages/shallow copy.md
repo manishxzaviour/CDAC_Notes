@@ -1,0 +1,16 @@
+- initialize a object with values of another object
+- if no copy constructor is defined default [[copy constructor]] is added
+-
+- copies all the non-satatic data members as is
+- used to copy normal primitive and derived types
+- should not be performed if class contains pointer type members
+-
+- if sallow copy is performed with a class having pointers the address of that pointer is copied as is and not the pointed content
+- the address of already allocated mem is passed to the copy
+- no new mem is allocated within the new object as the constructor does
+- when the destructors are called the dtor of copied object is called first which frees the allocated mem assigned by og object
+- later og tries to free the same location through its dtor
+- thus free is called on a already freed location
+- if the og class object eddits its data the same changes will be reflected in the copied class object
+-
+- to avoid this [[deep copy]] is performed

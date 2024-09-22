@@ -1,0 +1,2 @@
+- the user requires explicit permission to access objects created by other users
+- __permission of the owner of the object is required to access it__

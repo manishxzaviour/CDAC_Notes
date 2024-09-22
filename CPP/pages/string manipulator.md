@@ -1,0 +1,4 @@
+- like format specifiers in c
+- endl, hex, oct
+- setw(len), setfill(char) default allignment is right
+- right, left explicit justified

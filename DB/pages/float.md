@@ -1,0 +1,12 @@
+- approximate
+	- rounding takes place after size
+- store upto 7 decimal
+-
+- #double
+	- store upto 15 decimals
+-
+- #[[fixed point]]
+	- exact value
+	- store double as string
+	- max 65 digits
+	- exact precision is preserved

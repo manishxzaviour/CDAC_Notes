@@ -1,0 +1,8 @@
+- #parameters
+- is a #[[stored object]]
+-
+- is a #routine that will not returns any value directly `using #OUT `
+	- __and compulsorily__
+-
+- stored as a global function
+- recorded in a system table for procedures

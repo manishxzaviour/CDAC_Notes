@@ -1,0 +1,3 @@
+- describe the structure
+- desc emp; {{cloze describe structure of emp}}
+-

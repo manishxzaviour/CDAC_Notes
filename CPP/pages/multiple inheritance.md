@@ -1,0 +1,5 @@
+- one derived class from multiple base class
+- class derived: base1, base2, base3{}
+- ....../b1
+- d - b2
+- ..... \\b3

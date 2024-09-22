@@ -1,0 +1,37 @@
+- #Time_Table_for_CDAC
+- __daily three sittings on week days__
+- each setting of at-least two hours
+- one morning one in lab one in night on week days
+- __four sittings on week offs__
+- one morning one afternoon one evening one night
+- make 13 % __flash cards__
+- make __daily agenda__
+- make __long term agenda__ i.e each module before module begins
+- make days __ammends__ at end of day
+-
+- generic structure
+- >>morning
+- 6:30 - 6:30
+- goals :
+	- set days agenda
+	- revise previous days flash cards
+	- one sitting of  3 hour
+- 8:30 - 7:30 : breakfast and travel
+- >> sunbeam
+- 9:30-8:00 : sunbeam campus
+	- one sitting of 4 hour
+	- review daily agenda
+- >> return
+- 10 - 8:30 : dinner or exersise
+- 10:30 - 12:00 :
+	- review days agenda
+	- make days flash card
+	- one session of 5 hours
+- 14:00 - 4:30 :
+	- __compulsory sleep__
+-
+- >>on week-offs
+- compulsory four sittings should be done
+-
+- __compulsory__ __amends__  at the end of the day
+-

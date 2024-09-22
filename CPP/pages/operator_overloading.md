@@ -1,0 +1,7 @@
+- to provide [[Abstraction]] and ease of implementation
+- operator overloading does not change the basic functionality of the operation
+- just overloads the operator function to function differently based on context
+- the 'operator' keyword is used to overide the operator function
+- the operator function can be overloaded as a member or non-member(as a [[friend]] ) function
+- operators like the -> , = and [] need to be overloaded as member functions
+- operators sizeof(), [[typeid()]], :: and ?: cannot be overloaded

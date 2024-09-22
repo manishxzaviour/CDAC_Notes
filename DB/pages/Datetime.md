@@ -1,0 +1,7 @@
+- combination of
+- [[Date]]
+- [[Time]]
+-
+- date and time stored together
+	- no negative time
+-

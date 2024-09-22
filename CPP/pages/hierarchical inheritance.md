@@ -1,0 +1,5 @@
+- multiple derived classes from one base class
+- d1 \
+- d2 -   b
+- d3 /
+- d1:b , d2:b , d3:b

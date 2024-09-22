@@ -1,0 +1,15 @@
+- >linkages
+- External linkage
+- global , non-static
+- internal linkages
+- static
+- no linkages - local variables
+- >long double - 10B
+- >null pointer - (void *)0
+- > when converting binary to other headecimal is better as every  bit represents one hex digit
+- >correct way of defining a function as constant - int f1(void) const{}
+- >static polymorphism - operator overloading, function overloading, templates
+- >we cannot create a array of reference; we cannot create a reference to a reference
+- >we cannot return a local variable by reference
+- >virtual functions cannot overloaded
+-

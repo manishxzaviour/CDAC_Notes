@@ -1,0 +1,4 @@
+- base class - derived class - indirect derived class
+- b1 - d1 - d2
+- object of both b1 and d1 will be present  inside d2
+-

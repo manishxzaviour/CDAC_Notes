@@ -1,0 +1,8 @@
+- __Three types of parameters__
+	- `OUT`
+	- `IN`
+	- `INOUT`
+-
+- [[IN]]
+- [[OUT]]
+- [[INOUT]]

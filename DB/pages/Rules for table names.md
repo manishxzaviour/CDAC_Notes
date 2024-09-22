@@ -1,0 +1,5 @@
+- Max 30 characters
+- alphabets and alphanumeric
+	- {{cloze case sensitive in linux and case insensitive for windows wrt mysql}}
+- start with ,#,_ allowed {{cloze to use reserve char enclose it in back-quotes `#s`}}
+-

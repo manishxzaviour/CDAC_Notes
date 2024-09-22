@@ -1,0 +1,2 @@
+- a name given to a computed column/ table to create its temporary copy with alias name inside the server ram
+- the scope of the copy is limited to the current select statement

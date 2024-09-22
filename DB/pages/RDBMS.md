@@ -1,0 +1,19 @@
+## Relational [[DBMS]]
+-
+- data is stored in tabular object format instead of file format
+- __DataBase representation__
+	- each column is called a #field {{cloze synonym attribute, key, method}}
+	- each row is called a #record {{cloze synonym entity, row, tupple, opportunities}}
+	- DataBase is stored as #table {{cloze relation, entity class, matrix, applet}}
+-
+- in #RDBMS same fields of two tables are linked together through the field as a #[[foreign key]]
+- RDBMS support
+	- #client-server architecture {{cloze except ms-access, vatcom sql}}
+	- #Multi-user support
+	- #[[Distributed database]]
+	- #[[secure storage]]
+-
+- Most use [[SQL]] as the storage standard
+- non sql based exist
+- __MySql__
+-

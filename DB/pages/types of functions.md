@@ -1,0 +1,7 @@
+- #deterministic
+	- a function that will return the same value for the same input
+		- repeatable
+- #[[not deterministic]]
+	- a function that will change its output even if the same input is applied
+		- not repeatable
+		- may contain #Datetime functions

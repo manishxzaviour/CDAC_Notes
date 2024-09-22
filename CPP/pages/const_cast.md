@@ -1,0 +1,5 @@
+- used to remove const qualifier of data members inside [[const member functions]]
+- returns this pointer that is not a constant pointer
+- const className* const This  ;
+- className* const This;
+- const_cast<Test* const>(this) //returns this with removed const qualifier

@@ -1,0 +1,7 @@
+- used to improve reusability
+- to genericise code so that it is not type dependent
+- temlate<tyename T> or  <class T> both are functionally same
+- T can be used as a placeholder like a [[macro]] that will be replaced by compiler at compile time
+- functions and classes can be made into templates
+- incase of functions use typename and in case of class use class
+- explicit type specifying is required in case of template class

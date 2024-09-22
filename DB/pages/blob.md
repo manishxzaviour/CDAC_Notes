@@ -1,0 +1,11 @@
+- "B-LOB"
+- Binary large object
+	- Max size 4Gb
+	- can store any media
+	- stored outside the table using a #locatior
+-
+- tiny
+- blob
+- medium blob
+- long blob
+-

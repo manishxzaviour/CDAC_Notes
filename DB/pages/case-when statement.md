@@ -1,0 +1,10 @@
+- to generate #[[computed columns]] for #select
+-
+- like switch case
+- select ename, dname,
+- case
+- when deptno=10 then 'accounting'
+- :
+- else 'operating'
+- end as dname
+- from emp

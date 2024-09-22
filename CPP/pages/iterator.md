@@ -1,0 +1,11 @@
+- a object that enables traversal over elements of a container and provides access to these elements
+- are used to abstract the element traversal
+- allow to move through container one element at a time
+- provide access to the element they point to
+- type specific
+-
+- __input iterator__ allow read and single pass access i.e only move forward
+- __output iterator__ allow write and single pass access
+- __forward iterator__ allow read and write with multi pass access i.e go through multiple times
+- __bi-directional iterators__ can move forward and backwards
+- __random access iterators__ allow direct access to any element using arithmetic operators

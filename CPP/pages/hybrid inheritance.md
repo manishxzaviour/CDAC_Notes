@@ -1,0 +1,6 @@
+- ...............................b
+- ...................d1/    |    \\d2
+- ............................d3
+-
+- has the [[dimond-problem]]
+- when [[down casting]] [[dynamic_cast]] is a must due to ambiguty in object type

@@ -1,0 +1,9 @@
+- major pillars
+	- [[Abstraction]]
+	- [[Encapsulation]]
+	- [[modularity]]
+	- [[hierarchy]]
+- minor pillars
+	- [[polymorhism]]
+	- [[persistance]]
+	- [[concurency]]

@@ -1,0 +1,12 @@
+- tiny
+- text
+- medium
+- long
+	- max __4Gb__ size
+	- variable allocation size
+	- the actual entry is stored outside the table
+	- a #locatior to the entry is maintained in the actual record
+		- only for columns used for storage and display and not searching and sorting
+		-
+	-
+	-

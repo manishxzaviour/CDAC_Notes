@@ -1,0 +1,4 @@
+- one base class one derived class
+- class derived:base{}
+- B - D
+-

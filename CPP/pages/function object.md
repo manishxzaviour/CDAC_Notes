@@ -1,0 +1,5 @@
+- classes that are [[overloading]] the [[function call operator]] can create function objects or functors
+- the object can behave differently using the function call operator
+-
+- Time t;
+- t(120);

@@ -1,0 +1,4 @@
+- store data sequentially
+- preserve insertion sequence
+- [[vector]] [[deque]] [[list]] [[forward list]]
+-

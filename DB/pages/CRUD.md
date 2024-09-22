@@ -1,0 +1,4 @@
+- #create
+- #retrieve
+- #update
+- #delete

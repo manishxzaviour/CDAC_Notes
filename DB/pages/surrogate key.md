@@ -1,0 +1,11 @@
+- if a primary key cannot be identified in a table
+- a additional column needs to be added to the table structure
+	- to serve as the primary key
+-
+- is not a original column of the table
+-
+- usually is a #[[auto increment]] value
+-
+- also as the #PK is the best key for searching and thus for the surrogate key char #DataTypes is recomended
+	- as searching would be fast due to its fixed length
+-

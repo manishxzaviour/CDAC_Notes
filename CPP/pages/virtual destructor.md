@@ -1,0 +1,3 @@
+- in inheritance when dynamic allocation is performed in [[up casting]] if early binding is performed the destructor of the derived class is not called if the base pointer is used.
+- to perform late binding the distructor of the base class is set as virtual
+- the distructor of the object will be called through [[late binding]]

@@ -1,0 +1,9 @@
+- used in inheritance
+- to solve [[dimond-problem]]
+- to perform [[overriding]]
+- when a function or class is inherited as virtual its entry is made in a vTable is created. a vptr to this table is added to the derived class
+- when access to this inherited member is required the entry in vTable is passed
+- when multiple instances of the same objects are inherited only one entry is strored inside the vTable thus solving the [[dimond-problem]]
+- when a function is to be overridden in the derived class its entry is added to the vTable overriding the entry of overriden virtual function
+- if any function of the base class is virtual the vptr is added to all derived classes
+- the function overriding also becomes virtual

@@ -1,0 +1,3 @@
+- adaps a container to provide fifo behaviour
+- push() pop()
+- front() returns first element

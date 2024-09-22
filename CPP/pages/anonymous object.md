@@ -1,0 +1,2 @@
+- object without a identifier
+- generally used to ass as reference

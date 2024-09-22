@@ -1,0 +1,13 @@
+- handles the occuring exception
+- capture the thrown exception and handle it
+- type casting is not allowed in exception to catch block
+- type of exception should match a catch block
+- each try block should have atleast one catch block
+- multiple catch blocks can exist for one try block;
+-
+- whenever there is a exception in try block throw makes it jump to catch block
+- program execution does not return to try block there after
+- once the exception is handled program continues after catch
+-
+- generic catch block catch(...) should be used to catch all un caught exceptions
+- it should always be placed as the last catch block

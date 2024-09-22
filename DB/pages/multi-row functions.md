@@ -1,0 +1,17 @@
+- #[[aggregate function]] #[[group function]]
+- work with a group of rows of table
+- - __sum()__
+- - __avg()__
+- - __max()__
+- - __min()__
+- - __count()__
+- ### null values are ignored by group functions
+-
+- a group function cannot be selected with
+	- a column
+	- #[[single row functions]]
+	- used in where clause {{cloze can be used with having clause}}
+	- the #[[where clause]] is used for searching in the server hard drive and the aggregate function executes on table already present in the ram; a direct connection between the two cannot be made
+- cannot nest group functions {{cloze in mysql}}
+-
+- [[group by]]

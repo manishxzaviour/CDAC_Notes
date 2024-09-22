@@ -1,0 +1,2 @@
+- Architecture where data of a #DataBase is stored {{cloze done for disaster management}}
+-

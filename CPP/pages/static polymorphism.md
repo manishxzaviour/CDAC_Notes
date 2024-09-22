@@ -1,0 +1,5 @@
+- compile time , [[early binding]] , false polymorphism,
+- achieved using
+	- [[overloading]]
+	- [[operator_overloading]]
+	- [[template]]

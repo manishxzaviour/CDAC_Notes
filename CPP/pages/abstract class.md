@@ -1,0 +1,6 @@
+- a class containing a [[pure virtual function]] is called a abstract class
+- as the defination of a [[pure virtual function]] is supposed to be over ridden in the derived class and does not exist inside the abstract class the object of an abstract class cannot be initialized
+- a abstract class is used to provide structure for standard behavior of derived classes
+- a pointer to a abstract class can be created
+- the pointer can store address of any derived class using [[up casting]]
+-

@@ -1,0 +1,4 @@
+- True , False
+- 1     , 0
+-
+- stored as 0 or 1 in the entry

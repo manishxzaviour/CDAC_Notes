@@ -1,0 +1,4 @@
+- when a function call is resolved based on the type of pointer that makes the call
+- if [[up casting]] is performed the function of the base class is called
+-
+-

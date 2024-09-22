@@ -1,0 +1,3 @@
+- collection of keys
+- sorted by keys
+- keys do not need to be unique

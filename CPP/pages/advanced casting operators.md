@@ -1,0 +1,5 @@
+- [[dynamic_cast]]
+- [[static_cast]]
+- [[reinterprit_cast]]
+- [[const_cast]]
+- advanced casting operators provide additional information about its operands like its nature(polymorphic) and its inheritance

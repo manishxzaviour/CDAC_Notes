@@ -1,0 +1,3 @@
+- also known as method shadowning
+- when the derived class [[overriding]] overrides a function from its base class the overridden function cannot be called directly ass it will priorities local definition
+- thus to call the overridden function _to provide partial functionality and reuse_ scope specifier is required

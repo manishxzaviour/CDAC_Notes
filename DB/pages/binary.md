@@ -1,0 +1,7 @@
+- fixed length __binary string__
+	- max size of 255
+	- width need not be specified
+	- eg barcodes
+- #var
+	- max 64Kb
+		- width has to be specified

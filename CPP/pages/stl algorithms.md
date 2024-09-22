@@ -1,0 +1,2 @@
+- provide operations on contents of the containers
+- [[sorting algo]] [[searching algo]]

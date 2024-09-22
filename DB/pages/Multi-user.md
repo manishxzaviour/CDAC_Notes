@@ -1,0 +1,3 @@
+- Two users can access the same table at the same time
+- if one record is being updated only that record is #[[access locked]]
+-

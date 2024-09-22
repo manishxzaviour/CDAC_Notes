@@ -1,0 +1,9 @@
+- >> Public
+- accessible within same class, outside using object, in all derived classes
+- >>private
+- accessible within same class, not outside, not in any derived class
+- >> protected
+- accessible within same class, not outside, in all derived class
+-
+- all non-static members are inherited in derived class
+-

@@ -1,0 +1,6 @@
+- connecting two tables based on their common fields
+- [[cross joins]]
+- [[inner joins]]
+- [[outer join]]
+- [[self join]]
+- [[multiple joins]]

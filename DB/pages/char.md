@@ -1,0 +1,21 @@
+-
+	- allows any alphabetical or alphanumeric characters
+	- max size of __255 characters__
+	- default width is 1
+	- __fixed size__ allocation
+		- empty space is padded from __right__ side
+	- code char(8);
+	- used for
+		- when input is fixed sized
+		- to make querying faster
+- ___
+- #var
+	- max size of 63535 ie __64 kb__
+	- no default width
+		- width has to be explicitly declared
+	- variable size allocation
+		- shrink to fit
+	- used for
+		- when input is larger than #char and smaller than #text
+		- when __data storage__ is to be optimized for non standard sizes
+	- name varchar(100);

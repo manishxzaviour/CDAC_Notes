@@ -1,0 +1,6 @@
+- a virtual function that has only declaration and no definition
+- this function is used as a template for naming functions that will override this function
+- a class containing a pure virtual function becomes a [[abstract class]]
+-
+- virtual void display()=0;
+-

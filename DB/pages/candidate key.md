@@ -1,0 +1,9 @@
+- a set of zero or more #attributes {{cloze column}} the values of which are unique for each #tupple {{cloze row}} in a relation
+-
+- is not a constraint
+- a key besides the primary key that can serve the purpose of the primary key
+-
+	- can be a
+		- not null + unique index or
+		- not null + unique key
+-

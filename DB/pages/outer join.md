@@ -1,0 +1,8 @@
+- [[left outer join]]
+- [[right outer join]]
+- [[full outer join]]
+-
+- has #master and #detail table
+	- used for creating #[[master and detail report]] {{cloze when all the rows of child/detail are to be printed even if parent/master does not exist}}
+	- is internally a do-while loop with a internal for loop i.e for every element of a detail all the masters are printed
+-

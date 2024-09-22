@@ -1,0 +1,3 @@
+- A class having at least one [[virtual function]] is called a polymorphic class
+- having a [[virtual function]] means that it is designed to be overiden in the derived class. thus upcasting and loose binding can be performed
+- a polymorphic class can take multiple forms based on the object that is ointed to by its pointer as later [[down casting]] is possible

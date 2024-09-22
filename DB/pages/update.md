@@ -1,0 +1,9 @@
+- to change one or more rows in a table
+- if new field needs same amount of disk space then record is updated in place
+	- else a new copy is created with additional size and the record updated
+		- such updates increase fragmentation
+-
+- update books set col1=val1,... where condition;
+-
+- to #[[row locking]] a row for update #[[for update]] clause is used
+-

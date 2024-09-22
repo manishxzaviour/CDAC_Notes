@@ -1,0 +1,4 @@
+- \#define alias statement
+- when the preprocessing stage of compilation is processed all the macro aliases in the code are replaced with their defined statements
+- no actual operations are performed in the statement when the macro is defined
+- once the macro are desolved the statement are executed during compilation

@@ -1,0 +1,6 @@
+- a #DataBase stores all objects related to a project
+- it contains #constraints #relations #[[stored procedures]]  #[[stored functions]] #triggers
+- a db may contain system #table [[system table]]
+- contains #table containing data
+-
+-

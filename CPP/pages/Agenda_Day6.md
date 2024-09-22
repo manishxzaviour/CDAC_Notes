@@ -1,0 +1,9 @@
+- >__Agenda__
+- >>[[Mode of inheritance]]
+- >> [[runtime polymorphism]]
+- >> [[virtual keyword]]
+- >> [[virtual keyword]] vptr and vtable
+- >>[[RTTI]]
+- [[Raw_d6]]
+-
+-

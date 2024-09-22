@@ -1,0 +1,6 @@
+- one or more rows of a table are deleted
+-
+- delete from books where id=1005;
+- delete from books;
+	- all rows
+-

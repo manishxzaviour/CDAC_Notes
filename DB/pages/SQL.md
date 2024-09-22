@@ -1,0 +1,13 @@
+- Standard/Structured Query language
+	- common for all RDBMS
+	- ANSI and ISO complient
+	- previously RQBE
+- controlled by ANSI
+- SQL is a case insensitive language
+-
+- #[[command categories]] of sql
+-
+- #[[Rules for table names]]
+-
+- [[logical layout]]
+- [[physical layout]]

@@ -1,0 +1,6 @@
+- has-a
+- creates-a
+- use-a
+- require a dependency for the dependent class to create its object
+- the constructor of the dependency is called first and then of the dependent
+- dependency object within dependent class

@@ -1,0 +1,9 @@
+- #[[special operator]]
+- search for text/words using #wildcards
+	- __%__ > any number of characters
+	- __\___ > any one character
+-
+- where ename like '%u%'
+	- containing u
+- ename like '_u%'
+	- second character is u

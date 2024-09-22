@@ -1,0 +1,7 @@
+- a null value cannot be compared with any other values using
+	- #[[relational operators]]
+- there are special operators for comparing
+	- __is null__ or __<=>__
+	- __is not null__
+	-
+-

@@ -1,0 +1,8 @@
+- when performing late binding using [[up casting]] if there is need for the member functions of derived class not available to base class there is a need for [[down casting]]
+- when [[down casting]] casting is used. the standard casting operator is unsafe as it does not check for previous upcasting. if performed without upcasting may cause in un desired outcome as the memmory may be uninitialized.
+- to perform proper down casting [[typeid]] operator may be used to verify if prevous upcasting is performed.
+- incase of hybrid inheritance typeid fails due to ambiguty wrt the input used for  upcasting.
+- to resolve all these issues dynamic_cast<>() operator is used.
+- the required object type is passed as pointer in template for it.
+- dynamic_cast returns null in case of failure.
+- dynamic_cast can only be performed on [[polymorphic class]] and checks for inheritance

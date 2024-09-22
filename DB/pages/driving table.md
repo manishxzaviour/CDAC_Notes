@@ -1,0 +1,9 @@
+- table __whose keys are searched__ for in the other table
+-
+- for speed optimization the smaller of two tables i.e having `lower number of rows` is selected as the driving table
+- this is done for `loop unwinding`
+-
+- from e,b {{cloze --order matters here}}
+- e.dname=b.dname
+- b is the driving table
+-

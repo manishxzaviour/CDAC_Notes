@@ -1,0 +1,4 @@
+- to hide the low level information to provide better understandibility
+- hiding unnecessary details
+- calling functions, creating [[object]],  [[operator_overloading]] , [[iterator]] is example of abstraction
+-

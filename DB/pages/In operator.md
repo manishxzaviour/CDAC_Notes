@@ -1,0 +1,5 @@
+- #[[special operator]]
+- check for cascading or statements
+- empno =7900 or empno=7839 or empno=7839
+- empno in(7900, 7839, 7839);
+-

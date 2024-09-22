@@ -1,0 +1,6 @@
+- when the base class behaviour provides incomplete, partial or no functionality to the derived class; the derived class needs to define its own behaviour
+- to define this behavior in derived class the behavior in the base class needs to be overridden in the derived class
+- to achieve this the desire function is declared with the same name and signature but different behaviour
+- to increase reusing the existing function from base can be called to achieve its partial functionality
+- [[shadowing]]
+-

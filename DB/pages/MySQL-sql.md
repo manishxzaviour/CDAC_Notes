@@ -1,0 +1,12 @@
+- Programming language used for database programming
+- [[SQL]]
+-
+- #[[Subdivision of commands]]
+	- [[DDL]]
+	- [[DML]]
+	- [[DCL]]
+	- [[DQL]]
+	- [[DTL/TCL]]
+-
+- [[joins]]
+-

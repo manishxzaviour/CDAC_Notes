@@ -1,0 +1,6 @@
+- a member function that can only read the  sate of the [[object]] and not modify it
+- the this pointer passed to a constant mem function is a constant pointer
+- thus the state of calling object cannot be changed
+- const className* const this
+-
+- void f1(void )  const{}

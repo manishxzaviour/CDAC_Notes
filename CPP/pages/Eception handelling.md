@@ -1,0 +1,6 @@
+- to handle logical errors
+- at runtime of program execution
+- keywords - [[try]] [[throw]] [[catch]]
+- the buisness logic of the program should be seperate from the exception handeling
+- for better legibility and modularity
+-

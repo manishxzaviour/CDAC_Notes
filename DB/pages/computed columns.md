@@ -1,0 +1,2 @@
+- columns that are not part of table structure but are created temporarily by a expression or a function
+	- may be reused using #alias

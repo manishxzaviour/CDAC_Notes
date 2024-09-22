@@ -1,0 +1,7 @@
+- when null value is used as input to most operations and functions the result is null
+- #[[null related operators]]
+- - __isnull(a)__ 1 if null else 0
+- - __ifnull(a,put)__ put value in a if a is null
+- - __nullif(a,b)__ return null if __values are same__ else first value
+- - __coalesce(a,b,c,...)__ return first not null value
+-

@@ -1,0 +1,2 @@
+- to change the access mode to read only till the updates are completed
+- so that there is no conflic when two users intend to update the same entity

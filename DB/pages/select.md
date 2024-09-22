@@ -1,0 +1,11 @@
+- for selecting #record from a table
+	- select * from emp; {{cloze select all from table emp}}
+- #desc emp
+-
+- defines a #query
+-
+- [[computed columns]]
+- [[limit clause]]
+- [[distinct]]
+- [[order by]]
+- [[criteria]]

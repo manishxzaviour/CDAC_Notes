@@ -1,0 +1,3 @@
+- when a function of base class provides partial, incomplete or no functionality in the derived class. the derived class needs to provide its own implementation
+- by [[overriding]] the function of base class this is achieved. the function of the derived class can be accessed through its object and same for the derived class
+- but when performing [[up casting]] this context is lost and the function call is performed by [[early binding]] thus to perform [[late binding]] and call the overridden function the base class function is declared as virtual by [[virtual keyword]]

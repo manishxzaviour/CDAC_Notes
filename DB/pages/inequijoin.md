@@ -1,0 +1,2 @@
+- elements of sel1 __who do not belong to__ sel2
+- used in #[[excetion reports]]

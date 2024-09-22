@@ -1,0 +1,4 @@
+- defining a function or operator with the same name as existing function but different signature to acchieve different behaviour
+- signature->number or type of arguments
+- achieved using name mangelling  fun(int,doube)=> fun_i_d(int ,double)
+-

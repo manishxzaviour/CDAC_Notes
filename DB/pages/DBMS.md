@@ -1,0 +1,13 @@
+- #computer
+  {{cloze computare}}
+- #### Data {{cloze raw facts}} - > Computer {{cloze processing}} - > Information {{cloze data on whose bases decision or actions can be made}}
+-
+- ready made software that helps manage [[DataBase]]
+- e.g Excell
+- #[[ANSI defination]]
+	- collection of programs that allows you to #insert, #update, #delete, #process #DataBase
+-
+- Excell programming is known as macro {{cloze 53% of commercial work is done in a [[DBMS]] in Excell}}
+- eg {{cloze excel, dbase, foxbase, foxpro, clipper - used by union bank, quattro pro, lotus 1-2-3 -used by janta/sahakari coop banks}}
+-
+-

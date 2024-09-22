@@ -1,0 +1,7 @@
+- >Procedure oriented programming language
+- >>pascal, fortan, cobol
+- >object oriented programming language
+- >>simula, smalltalk
+- object based programming languages
+- functional programming
+-

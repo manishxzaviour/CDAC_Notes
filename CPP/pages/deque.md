@@ -1,0 +1,3 @@
+- double ended queue that supports efficient insertion and deletion at both ends
+- provides similar function to vectors but may provide better performance at insertion and deletion at end or begining
+-

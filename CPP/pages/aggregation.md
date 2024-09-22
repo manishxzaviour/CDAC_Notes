@@ -1,0 +1,4 @@
+- may have-a
+- dependent class does not necessarily require dependency to create its object
+- dependency may be initialized later
+- pointer of dependency within dependent class

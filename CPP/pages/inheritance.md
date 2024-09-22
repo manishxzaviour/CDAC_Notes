@@ -1,0 +1,14 @@
+- part of [[hierarchy]]
+- is-a relation
+- having similar behaviours [[object]]
+- to increase reusability
+- _all the non-static data members of base class are allocated memory inside derived class object_
+- except constructors, destructors, copy constructors and friend functions
+- when the derived class object is created , the constructor of base class is called first and the constructor of derived after that
+- the object of base class is a dependency for the derived class
+- the base class constructor is called as it is not inherited into the derived class but the non-static members are inherited which need initialization
+-
+- when going out of scope the distructors are called in reverse order of constructor calls
+-
+- types of inheritance -
+- [[single inheritance]] [[multiple inheritance]] [[hierarchical inheritance]] [[multilevel inheritance]] [[hybrid inheritance]]

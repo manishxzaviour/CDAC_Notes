@@ -1,0 +1,15 @@
+- __User__
+	- create user uname@access_scope {{cloze dac@localhost username@ comuter through wich user is given access}}
+	- [[grant]] permissions
+	- mysql -u uname -p {{cloze -p for password login}}
+- __database__
+	- create database dname;
+	- show databases;
+	- use dname;
+- __table__
+	- create table table_name(structure);
+	- create table copy
+		- create table books as select * from books; {{cloze as #[[secial operator]] }}
+		- copy only schema
+			- create table books as select * from books limit 0 ; {{cloze #select}}
+-

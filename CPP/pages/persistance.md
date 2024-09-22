@@ -1,0 +1,2 @@
+- storing state of the program or object in secondary storage
+- [[File i/O]]

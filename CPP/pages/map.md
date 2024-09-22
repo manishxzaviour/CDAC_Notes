@@ -1,0 +1,14 @@
+- collection of key-value pairs
+- sorted by keys
+- keys are sorted by using a comparison function
+- keys are unique
+- search, removal , insertion have logarithmic complexity
+- iterator iterate in ascending order of keys
+- map<type key, type value> a;
+- a[key]=value
+- map<>::iterator itr = a.begin()
+- itr-> first => key
+- itr-> second => value
+- if key already exists its value is replaced in assignment
+-
+- bi directional iterator

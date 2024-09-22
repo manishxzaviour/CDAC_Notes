@@ -1,0 +1,2 @@
+- A approved username and password is required to access the data base
+- the username and pwd may be provided by the Database admin or owner

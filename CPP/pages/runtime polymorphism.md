@@ -1,0 +1,23 @@
+- achieved using [[late binding]], [[up casting]], [[overriding]] , [[virtual keyword]], [[abstract class]]
+-
+- a shape class exists
+- contains
+- accept , calculateArea [[pure virtual function]]
+- is a [[abstract class]]
+- ---
+- class circle exists and inherits from class shape
+- overrides accept and calculteArea
+- accept accepts radius
+- calculateArea return area
+- ---
+- class rectangle exists and inherits from class shape
+- overrides accept and calculteArea
+- accept accepts length , breadth
+- calculateArea return area
+- ---
+- Shape *sptr;
+- sptr can be assigned new Circle()
+- sptr can be assigned new Rect()
+- this can be done at runtime the functions accept and calculate perform different operations when called by sptr if it is pointing to circle or rect by [[late binding]]
+- thus [[runtime polymorphism]] is achieved
+-

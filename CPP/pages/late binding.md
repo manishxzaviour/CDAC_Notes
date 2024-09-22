@@ -1,0 +1,4 @@
+- when a function call is resolved based on the type of object that is created making the call
+- if [[up casting]] is performed then the function of the derived class will be called
+- [[early binding]]
+-

@@ -1,0 +1,1 @@
+- the user can execute commands that are allowed to his authorized security level {{cloze eg can create a record but cannot drop the table}}

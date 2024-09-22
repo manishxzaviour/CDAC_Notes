@@ -1,0 +1,16 @@
+- used to fetch / search for rows of a table inside the server hdd through their #rowid into the server ram.
+	- may not return sequential data {{cloze #sql #[[physical layout]] }}
+-
+- filtering can be performed during search threough
+	- [[relational operators]]
+	- [[null related operators]]
+	- [[logical operators]]
+	- [[between operator]]
+	- [[In operator]]
+	- [[like operator]]
+	- [[case-when statement]]
+-
+- acts like a iterator with a filtering condition
+	- #[[full table scan]] occurs
+-
+-

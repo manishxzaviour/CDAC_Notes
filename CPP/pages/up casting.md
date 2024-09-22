@@ -1,0 +1,10 @@
+- when the pointer of a derived class is passed on to the pointer of the base class
+- the base pointer/ reference is pointing to derived object
+- B
+- |
+- D
+-
+- B* bptr=new D()
+- using bptr only the members of the base class can be accessed
+- members of derived class cannot be accessed using bptr
+- also called object slicing as only the base class members are accessible

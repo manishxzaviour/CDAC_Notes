@@ -1,0 +1,6 @@
+- used to insert values in a existing table
+-
+- insert into table_name( {{cloze column names}} ) values( {{cloze values in the same order as the columns declared before}} );
+- insert into tablename values ( {{cloze values to all the columns of the table}} )
+	- is not preferred due to #alter
+-

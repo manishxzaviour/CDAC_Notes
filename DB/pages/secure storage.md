@@ -1,0 +1,6 @@
+- A #RDBMS provides multi-level security
+-
+- __security in a RDBMS__
+	- [[logging in security]]
+	- [[command level security]]
+	- [[object level security]]

@@ -1,0 +1,4 @@
+- reinterprit one object pointer into different class object pointer
+- by coping matching state members and initializing the unmatched state members
+- most riskiest as the unmatched members may not be initialized
+- checks for inheritance

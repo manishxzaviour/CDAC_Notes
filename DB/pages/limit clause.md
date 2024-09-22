@@ -1,0 +1,3 @@
+- a clause used to limit the number of rows selected in a select statement
+	- select * from books limit 5; {{cloze 5 rows}}
+	- select * from books limit 2,1; {{cloze select third skipping first 2}}

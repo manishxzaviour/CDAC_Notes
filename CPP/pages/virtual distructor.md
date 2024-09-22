@@ -1,0 +1,4 @@
+- when a derive class inherits from base class when upcasting; when the derived object goes out of scope only its destructor is called and not of the base class
+- to delete the base object its destructor needs to be called
+- thus the constructor needs to be set as virtual
+-

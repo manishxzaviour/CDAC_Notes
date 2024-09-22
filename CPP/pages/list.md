@@ -1,0 +1,2 @@
+- a doubly-linked list that allows efficient insertion and deletion of elements at any position
+- no random access iterator and has slower traversal

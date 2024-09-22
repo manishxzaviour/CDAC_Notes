@@ -1,0 +1,5 @@
+- binding of data and code together
+- implementaton of [[Abstraction]]
+- describe the inner behaviour of the object
+- function call is [[Abstraction]]
+- function defination is encapsulation
