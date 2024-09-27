@@ -1,9 +1,9 @@
-- select __matching rows__
+## select __matching rows__
 - ```
   select e.ename, d.dname 
   from emp e
   inner join dept d
-  on e.deptno=d.deptno --condition for matching
+  on e.deptno=d.deptno; --condition for matching
   ```
 -
 - can also be made using where clause

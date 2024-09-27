@@ -1,3 +1,3 @@
 - [[virtual distructor]]
-- [[advaced casting operators]]
+- [[advanced casting operators]]
 - [[Exception handling]]

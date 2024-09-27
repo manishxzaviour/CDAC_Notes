@@ -15,7 +15,6 @@
   end repeat;
   ```
 -
-- e.g. outer join
 -
 - operators
 - - loop -> to assign a __identifier__ to the loop
@@ -34,4 +33,5 @@
 	- ```
 	  iterate pqr_lp;
 	  ```
-	-
+-
+- #[[continue Handler]]

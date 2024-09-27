@@ -1,3 +1,3 @@
-- [[cursors]]
+- [[cursor]]
 - [[stored functions]]
 - [[triggers]]

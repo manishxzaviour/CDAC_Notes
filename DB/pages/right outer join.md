@@ -18,3 +18,7 @@
 - ### will print all rows of d
 - d is #[[driven table]] #detail and e is #[[driving table]]
 -
+- ## display null on the left side
+-
+- no of rows = no of rows in right table
+-

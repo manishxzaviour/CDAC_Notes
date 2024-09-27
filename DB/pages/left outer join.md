@@ -14,7 +14,9 @@
   
   ```
 - print e.ename and null if condition is false
-- ### will print all rows of e
+- ## will print all rows of e
 - e is #[[driven table]] #[[detail]] and d is #[[driving table]] #[[master]]
 -
+- # result is null on right side
 -
+- ___no of rows = no of rows on right side___

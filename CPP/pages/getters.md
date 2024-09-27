@@ -1,0 +1,1 @@
+- return copy of value of a single data member

@@ -3,3 +3,18 @@
 - [[reinterprit_cast]]
 - [[const_cast]]
 - advanced casting operators provide additional information about its operands like its nature(polymorphic) and its inheritance
+- dynamic_cast
+- > in case of polymorphic class to downcast use dynamic_cast
+- >checks type conversion as well as inheritance between source and destination at run time
+- if fails return null
+- In case of reference, fails downcasting then it throws std::bad_cast
+  exception
+- ---
+- static cast
+- in case of non polymorphic between compatible types
+- does not check whether type conversion is valid
+- >only checks inheritance at compile time
+-
+- reinterprit cast
+- const cast
+-

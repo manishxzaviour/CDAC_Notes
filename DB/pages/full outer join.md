@@ -2,6 +2,7 @@
 - display null w.r.t the col when either is null
 - i.e d.dname will be null if d.deptno is not found and e.ename will be null if e.deptno  is not found
 -
+-
 - not supported in mysql
 - ansi:
   ```
@@ -31,6 +32,11 @@
 	  where dept.deptno=emp.deptno(+)
 	  ```
 -
+-
+- ## returns all records when there is a match on either left or right table. else null on the other side
+-
 - ### parent-parent report, master-master report
+-
+- ___no of rows = matched+ unmatched left + unmatched right___
 -
 -

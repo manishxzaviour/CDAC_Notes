@@ -1,0 +1,9 @@
+- __Software design patterns__
+	- __Creational__
+	- __behavioural__
+	- __Structural__
+- [[Singleton design pattern]]
+- [[factory design pattern]]
+-
+- For creating reusable object oriented design
+-

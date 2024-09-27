@@ -13,3 +13,7 @@
 		- print e, d
 -
 - will have duplicates and reverse duplicates
+-
+- ## all possible combination of rows
+-
+- ___no of rows = left rows * right rows___

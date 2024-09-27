@@ -1,0 +1,5 @@
+- [[template]]
+- [[shallow copy]] [[deep copy]]
+- [[copy constructor]]
+- [[friend]]
+- [[string manipulator]]
