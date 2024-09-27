@@ -1,0 +1,8 @@
+- contains #fields and #methods
+- all java code is enclosed in classes
+- the entry point
+	- public static void main(String[] args) is contained as a method in a class {{cloze in java the main method can be overloaded; for testing purposes}}
+- the object of a class is instantiated in the heap memory only
+- the reference to the object may be stored in java heap
+- the deallocation is done automatically by the java #[[Garbage collector]]
+-

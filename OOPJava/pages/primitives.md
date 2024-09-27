@@ -1,0 +1,24 @@
+- boolean {cloze takes only true and false; no 0 or 1}}
+- char {{cloze 2B supports UTF16}}
+- int {{cloze 4B}}
+- short {{cloze 2B}}
+- long {{cloze 8B}}
+- float {{cloze 4B}}
+- double {{cloze 8B}}
+-
+- Java provides #[[wrapper classes]]
+  that provide additional functionality and compatibility with java collections
+  for all primitives
+-
+- #literals are constant values declared during compilation
+	- 10, "abc", 2012.121
+	- stored in method memory
+	- boolean, char, int, float, string , null
+-
+- #widening and #narrowing
+	- when assigning value of one data type to some variable of other data type
+	- based on the range of possible values of the assignee and the value
+	- if the range of the variable is smaller than the value being assigned then #narrowing
+		- __explicit casting is not necessary__
+	- if the range of the variable is larger then #widening
+		- __explicit casting is compulsory__

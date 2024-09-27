@@ -1,0 +1,9 @@
+- Java Implemented on
+	- Java Card
+	- Java ME
+		- for feature phones
+	- Java SE
+		- for desktop applications
+	- Java EE
+		- Web Applications
+	-

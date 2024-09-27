@@ -1,0 +1,9 @@
+- Method overloading is done in the same way as in CPP
+- A method can be overloaded by changing its signature
+- #[[Method signature]]
+	- dataTypes in parameters
+	- sequence of dataTypes
+	- number of parameters with unique dataTypes
+-
+- is #polymorphism/static
+-

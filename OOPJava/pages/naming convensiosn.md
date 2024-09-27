@@ -1,0 +1,12 @@
+## Pascal Case
+	- for
+	- #[[class name]],
+	- #enum,
+	- #interfaces
+- ## camel Case
+	- for
+	- #field
+	- local variables
+	- #method
+	- #package
+	-

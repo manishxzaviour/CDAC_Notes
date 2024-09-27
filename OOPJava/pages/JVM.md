@@ -1,0 +1,4 @@
+- a virtual machine that runs the java bytecode
+- uses a interpreter to read the bytecode
+- sits on top of os and converts bytecode to os instructions
+- __is platform dependent__

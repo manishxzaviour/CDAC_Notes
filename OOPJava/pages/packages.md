@@ -1,0 +1,9 @@
+- logically like namespaces
+- used to organize and associate related classes
+- it is java specification that all source files should be contained within packages
+- if no package is created by user the default package is used
+-
+- the default #[[access modifier]] is used if no other is specified
+-
+- __all package names should be in lower case__
+-

@@ -1,0 +1,7 @@
+- - single inheritance
+- - multi-level
+- - hierarchical
+- - hybrid inheritance {{cloze combination of others}}
+-
+- multiple __class__ inheritance __NOT__ available
+	- multiple __interface__ inheritance is available

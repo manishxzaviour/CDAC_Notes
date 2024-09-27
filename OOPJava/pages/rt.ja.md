@@ -1,0 +1,2 @@
+- Contains essential libraries for a given application to run
+	- additional Jar may be required based on dependencies

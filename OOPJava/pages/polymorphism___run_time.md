@@ -1,0 +1,5 @@
+- when the entity can represent multiple forms at runtime
+- when sub class's instances created at runtime are represented using their common ancestor
+-
+- #[[method overriding]] is a part of run time polymorphism
+-

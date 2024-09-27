@@ -1,0 +1,9 @@
+- #constructors
+- #getters
+- #setters
+- #facilitator
+- __no friend classes__
+-
+- __no destructor in java__
+	- memory leakage is handled automatically
+	- by garbage collector

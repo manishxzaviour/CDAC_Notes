@@ -1,0 +1,2 @@
+- Runtime env required for deployment
+- contains rt.jar

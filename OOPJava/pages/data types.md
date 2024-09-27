@@ -1,0 +1,11 @@
+- A Data member has
+	- __Nature__
+	- __memory__
+	- __operation__
+-
+- Classification
+	- value type or #references type
+	- #primitives
+	- #non-primitives
+-
+-

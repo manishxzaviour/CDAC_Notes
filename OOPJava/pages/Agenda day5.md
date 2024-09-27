@@ -1,0 +1,5 @@
+- [[singleton design pattern]]
+- [[hierarchy]]
+- [[polymorphism]]
+- [[java.lang.object class]]
+-
