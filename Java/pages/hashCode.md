@@ -1,0 +1,6 @@
+- unique number generated based on the identity(unique attribute) of the object
+- the Objects.hash(objState) // can be used to get a hashcode
+- needs to be passed the unique attributes of the object.
+-
+- a #hash_function should generate the same hashcode for the same object
+-

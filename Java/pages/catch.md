@@ -1,0 +1,2 @@
+- same as in cpp
+- can be used with the #finally block

@@ -1,0 +1,8 @@
+- [[Stream api]]
+	- collect
+	- reduce
+- [[Persistance/FileIO]]
+	- IO
+	- NIO
+- [[Persistance/JDBC]]
+-

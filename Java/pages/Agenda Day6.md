@@ -1,0 +1,5 @@
+- [[instanceof]] [[getClass]]
+- [[final]] class
+- [[object class]]
+- [[abstract]]
+- [[interface]]

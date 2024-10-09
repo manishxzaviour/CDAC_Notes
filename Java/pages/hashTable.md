@@ -1,0 +1,18 @@
+- uses a means of data storage method that is indexed.
+- the individual indexes are used to identify `slot` of the table
+- the hash value is used to identify a slot to be used for storage.
+-
+- a hash function is a fun that generates a unique value for the data. its deterministic
+-
+- "generally if a prime number is multiplied with a number, it will generate a unique value"
+-
+- Objects.hash(...) {{cloze Objects is a helper class}}
+	- slot = hashCode % no of slots
+- if a conflic arises i.e collision occurs then the hashCode is generally rehashed until a empty slot is found `open addressing` or it is added to the same slot using a Linked List implementation. such slots are called `buckets`.
+-
+- the conflict solution is decided upon based on load factor
+	- LF = no of elements to store / no of available slots
+	- default is 0.75
+-
+- if LF is 1 or less than 1 open addressing is used; separate chaining otherwise.
+-

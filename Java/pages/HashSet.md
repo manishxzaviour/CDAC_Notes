@@ -1,0 +1,7 @@
+- uses a hash table to store the elements
+-
+- ### preserves no order
+-
+- needs the hashCode and equals method overriden to avoid duplicates
+	- the hashcode should be generated on the unique fields of the class
+	- the identity of the object

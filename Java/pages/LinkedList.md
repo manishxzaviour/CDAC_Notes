@@ -1,0 +1,9 @@
+- implements #List, #Deque
+-
+- ### can be used as
+	- - Queue
+	- - Stack
+	- - Dynamic data storage
+-
+- Is a <u>Doubly-linked</u> list
+-

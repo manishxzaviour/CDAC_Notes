@@ -1,4 +1,4 @@
-- #[[special operator]]
+-
 - search for text/words using #wildcards
 	- __%__ > any number of characters
 	- __\___ > any one character

@@ -1,4 +1,4 @@
-- #[[special operator]]
+-
 - return all values >=p1 and <=p2
 	- sal between 1100 and 1600
 	- sal>=1100 and sal>=1600

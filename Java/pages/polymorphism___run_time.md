@@ -1,0 +1,8 @@
+- when the entity can represent multiple forms at runtime
+- when sub class's instances created at runtime are represented using their common ancestor
+-
+- #[[method overriding]] is a part of run time polymorphism
+	- also called as __dynamic method dispatch__ in java
+		- the method is dispatched based on the type of the object that is referred.
+		- late binding
+-

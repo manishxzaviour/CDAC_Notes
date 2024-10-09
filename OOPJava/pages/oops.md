@@ -1,8 +1,0 @@
-- - Abstraction > Object instances
-- - Encapsulation > classes, packages
-- - Modularity > packages, classfiles
-- - Hierarchy > association, inheritance - extends, implements
-- ___
-- - polymorphism > static - generics dynamic - upcasting
-- - concurrency > multi-threading
-- - persistence > file i/o, #JDBC

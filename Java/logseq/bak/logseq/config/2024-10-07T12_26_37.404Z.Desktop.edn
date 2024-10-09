@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["TIME_TABLE"]
+ :favorites []
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,6 +419,4 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/forcesettings {:link-dist 180
- :charge-strength -1000
- :charge-range 1300}}
+ :graph/settings {:orphan-pages? false}}

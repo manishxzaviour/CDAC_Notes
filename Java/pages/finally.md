@@ -1,0 +1,9 @@
+- used to release captured resources
+-
+- __will execute even if the program is goin to be terminated__
+	- is always executed weather the exception is raised or not
+-
+- an exception will terminate the program if raised and resources will not be released.
+- the finally block will be executed just before termination; so that the resources will be released
+-
+- a try block without a catch block should have a finally block

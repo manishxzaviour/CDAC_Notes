@@ -1,0 +1,8 @@
+- [[interface]]
+- [[functional interfaces]]
+- [[anonymous inner class]]
+- [[lamda expression]]
+- [[method references]]
+- [[local and nested interface]]
+-
+-

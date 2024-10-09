@@ -1,0 +1,1 @@
+- A `non-thread safe` mutable sequence of character

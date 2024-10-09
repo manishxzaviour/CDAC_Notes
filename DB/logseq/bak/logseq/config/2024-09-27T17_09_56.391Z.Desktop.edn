@@ -421,4 +421,4 @@
  :file/name-format :triple-lowbar
  :graph/forcesettings {:link-dist 180
  :charge-strength -1000
- :charge-range 1300}}
+ :charge-range 2600}}

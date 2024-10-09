@@ -1,0 +1,3 @@
+- returns a reference of Iterator interface
+- called by the #[[for each loop]]
+- used in traversal

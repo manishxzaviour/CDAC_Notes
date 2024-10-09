@@ -1,0 +1,8 @@
+- A __Empty interface__
+- used to __tag__ the class
+	- for the JVM env to perform tasks
+	- produces metadata on compilation read by the JVM env
+-
+- Clonable
+	- does not contain the clone
+- JVM will have a internal implementation for such markers
